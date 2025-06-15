@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Melissa Sequeira! 
 
-🚀 **Aspiring AI & Full-Stack Developer | Engineering Student | Tech Enthusiast**
+🚀 **Aspiring AI & Full-Stack MERN Developer | Engineering Student | Tech Enthusiast**
 
 ---
 
