@@ -12,7 +12,7 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 ## 💡 Tech Stack & Skills
 
 ### 🖥️ Programming Languages:
-- Python 🐍 | Java ☕ | JavaScript ⚡ | Dart (Flutter) 📱
+- Python 🐍 | Java ☕ | JavaScript ⚡ 
 
 ### 🌐 Web & App Development:
 - **Frontend:** React.js, Bootstrap  
