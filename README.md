@@ -20,7 +20,7 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 - **Mobile:** Flutter
 
 ### 🤖 AI & Machine Learning:
-- TensorFlow | Keras | OpenCV | Mediapipe | Scikit-learn
+- TensorFlow | Keras | OpenCV | Mediapipe | Scikit-learn | NLP
 
 ### 📊 Databases & Cloud:
 - MongoDB | MySQL
