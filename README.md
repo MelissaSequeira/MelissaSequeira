@@ -48,6 +48,7 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 📧 **Email:** melissasequeira572@gmail.com  
 🐙 **GitHub:** [MelissaSequeira](https://github.com/MelissaSequeira)  
 💼 **LinkedIn:** [Melissa Sequeira](https://www.linkedin.com/in/melissa-sequeira-9757a4256/)
+
 🐙 **Leetcode:**  [MelissaSequeira](https://leetcode.com/u/Melissa_Sequeira/)
 
 ---
