@@ -33,13 +33,14 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 ## 🛠️ Main Projects
 
 | Project | Link |
-|--------|-------------|
-| 💼 [**Online Reimbursement System**] |([(https://github.com/MelissaSequeira/Online-Reimbursement-System](https://github.com/MelissaSequeira/Online-Reimbursement-System))]|  
-| 🌐 [**DrishtiTech**] |([(https://github.com/MelissaSequeira/DrishtiTech))](https://github.com/MelissaSequeira/DrishtiTech))  |
-| 🛍️ **VogueVista** |([(https://github.com/MelissaSequeira/Mernized_VogueVista)](https://github.com/MelissaSequeira/Mernized_VogueVista)) |
-| ✅ **Compliance Support System** | ([(https://github.com/MelissaSequeira/CompilanceMS)](https://github.com/MelissaSequeira/CompilanceMS)) |
-| 🤟 **VaaniConnect** | ([((https://github.com/MelissaSequeira/NewVanniConnect))](https://github.com/MelissaSequeira/NewVanniConnect)) |
-| 💼 [**Personal Portfolio**] |([(https://github.com/MelissaSequeira/My_Portfoliogithub.io)](https://github.com/MelissaSequeira/My_Portfoliogithub.io)) |  
+|--------|------|
+| 🌐 **YT Comments Toxicity Predictor** | [GitHub](https://github.com/MelissaSequeira/Youtube_comment_toxicity_predictor) |
+| 💼 **Online Reimbursement System** | [GitHub](https://github.com/MelissaSequeira/Online-Reimbursement-System) |
+| 🌐 **DrishtiTech** | [GitHub](https://github.com/MelissaSequeira/DrishtiTech) |
+| 🛍️ **VogueVista** | [GitHub](https://github.com/MelissaSequeira/Mernized_VogueVista) |
+| ✅ **Compliance Support System** | [GitHub](https://github.com/MelissaSequeira/CompilanceMS) |
+| 🤟 **VaaniConnect** | [GitHub](https://github.com/MelissaSequeira/NewVanniConnect) |
+| 💼 **Personal Portfolio** | [GitHub](https://github.com/MelissaSequeira/My_Portfoliogithub.io) |
 
 ---
 
@@ -47,13 +48,12 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 
 📧 **Email:** melissasequeira572@gmail.com  
 🐙 **GitHub:** [MelissaSequeira](https://github.com/MelissaSequeira)  
-💼 **LinkedIn:** [Melissa Sequeira](https://www.linkedin.com/in/melissa-sequeira-9757a4256/)
-
-🐙 **Leetcode:**  [MelissaSequeira](https://leetcode.com/u/Melissa_Sequeira/)
+💼 **LinkedIn:** [Melissa Sequeira](https://www.linkedin.com/in/melissa-sequeira-9757a4256/)  
+🖥️ **Leetcode:** [MelissaSequeira](https://leetcode.com/u/Melissa_Sequeira/)
 
 ---
 
-⭐ **Fun Fact:** I love coffee ☕, exploring new tech! 🚀
+⭐ **Fun Fact:** I love coffee ☕ and exploring new tech! 🚀
 
 ---
 
