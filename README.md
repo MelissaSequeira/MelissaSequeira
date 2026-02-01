@@ -20,7 +20,7 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 - **Mobile:** Flutter
 
 ### 🤖 AI & Machine Learning:
-- TensorFlow | Keras | OpenCV | Mediapipe | Scikit-learn | NLP
+- TensorFlow | Keras | OpenCV | LLM | Scikit-learn | NLP | Ollama
 
 ### 📊 Databases & Cloud:
 - MongoDB | MySQL
@@ -34,6 +34,7 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 
 | Project | Link |
 |--------|------|
+| 🌞 ** Solar.Ai – Document Based Chatbot** | [GitHub]((https://github.com/MelissaSequeira/Domain-specific-solarsystem-Based-chatbot)) |
 | 🌐 **YT Comments Toxicity Predictor** | [GitHub](https://github.com/MelissaSequeira/Youtube_comment_toxicity_predictor) |
 | 💼 **Online Reimbursement System** | [GitHub](https://github.com/MelissaSequeira/Online-Reimbursement-System) |
 | 🌐 **DrishtiTech** | [GitHub](https://github.com/MelissaSequeira/DrishtiTech) |
@@ -53,7 +54,7 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 
 ---
 
-⭐ **Fun Fact:** I love coffee ☕ and exploring new tech! 🚀
+⭐ **Fun Fact:** I love code things that actually create an impact to environment! 🚀
 
 ---
 
