@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Melissa Sequeira! 
 
-🚀 **Aspiring AI & Full-Stack MERN Developer | Engineering Student | Tech Enthusiast**
+🚀 **Aspiring Software Engineer | Engineering Student | Tech Enthusiast**
 
 ---
 
@@ -14,34 +14,36 @@ I'm an engineering student with a passion for AI, machine learning, and full-sta
 ### 🖥️ Programming Languages:
 - Python 🐍 | Java ☕ | JavaScript ⚡ 
 
-### 🌐 Web & App Development:
+### 🌐 Web Development:
 - **Frontend:** React.js, Bootstrap  
-- **Backend:** Node.js, Express.js, Flask  
-- **Mobile:** Flutter
+- **Backend:** Node.js, Express.js, Flask
 
 ### 🤖 AI & Machine Learning:
 - TensorFlow | Keras | OpenCV | LLM | Scikit-learn | NLP | Ollama
 
 ### 📊 Databases & Cloud:
-- MongoDB | MySQL
+- MongoDB | MySQL | PostgresSQL
 
 ### 🔧 Tools & DevOps:
-- GitHub | Linux | Pyenv | Postman
+- GitHub | Linux | Pyenv | Postman | Claude | Chatgpt
 
 ---
 
 ## 🛠️ Main Projects
 
-| Project | Link |
-|--------|------|
-| 🌞 **Solar.Ai – Document Based Chatbot** | [GitHub](https://github.com/MelissaSequeira/Domain-specific-solarsystem-Based-chatbot) |
-| 🌐 **YT Comments Toxicity Predictor** | [GitHub](https://github.com/MelissaSequeira/Youtube_comment_toxicity_predictor) |
-| 💼 **Online Reimbursement System** | [GitHub](https://github.com/MelissaSequeira/Online-Reimbursement-System) |
-| 🌐 **DrishtiTech** | [GitHub](https://github.com/MelissaSequeira/DrishtiTech) |
-| 🛍️ **VogueVista** | [GitHub](https://github.com/MelissaSequeira/Mernized_VogueVista) |
-| ✅ **Compliance Support System** | [GitHub](https://github.com/MelissaSequeira/CompilanceMS) |
-| 🤟 **VaaniConnect** | [GitHub](https://github.com/MelissaSequeira/NewVanniConnect) |
-| 💼 **Personal Portfolio** | [GitHub](https://github.com/MelissaSequeira/My_Portfoliogithub.io) |
+| Project | Tech Stack | Link |
+|----------|------------|------|
+| 💰 **Expense Tracker Backend API** | Java, JDBC, PostgreSQL, REST API| [GitHub](https://github.com/MelissaSequeira/Expense-Tracker-using-Java-and-postgresSQL) |
+| 🚦 **Vehicle Identification & Compliance System** | Python, YOLOv8, OpenCV, Flask | [GitHub](https://github.com/MelissaSequeira/VITCS-IR-Day) |
+| 📄 **VioChat – Traffic Rules Document Chatbot** | Python, LangChain, Ollama, ChromaDB, RAG | [GitHub](https://github.com/MelissaSequeira/VioChat-Traffic-rules-related-chatbot) |
+| 🌞 **Solar.AI – Solar System Document Chatbot** | Python, LangChain, Ollama, ChromaDB, RAG | [GitHub](https://github.com/MelissaSequeira/Domain-specific-solarsystem-Based-chatbot) |
+| 💬 **YouTube Comments Toxicity Predictor** | Python, Scikit-learn, NLP, Streamlit | [GitHub](https://github.com/MelissaSequeira/Youtube_comment_toxicity_predictor) |
+| 💼 **Online Reimbursement System** | Python, Flask, PostgresSQL, REST API | [GitHub](https://github.com/MelissaSequeira/Online-Reimbursement-System) |
+| 👁️ **DrishtiTech** | React, MongoDB, Express.js, Node.js | [GitHub](https://github.com/MelissaSequeira/DrishtiTech) |
+| 🛍️ **VogueVista** | MongoDB, Express.js, React, Node.js | [GitHub](https://github.com/MelissaSequeira/Mernized_VogueVista) |
+| 📋 **Compliance Support System** | Python, Flask,SQLlite | [GitHub](https://github.com/MelissaSequeira/CompilanceMS) |
+| 🤟 **VaaniConnect** | Python, TensorFlow, OpenCV, Tkinter| [GitHub](https://github.com/MelissaSequeira/NewVanniConnect) |
+| 🌐 **Personal Portfolio** | HTML, CSS, JavaScript | [GitHub](https://github.com/MelissaSequeira/My_Portfoliogithub.io) |
 
 ---
 
